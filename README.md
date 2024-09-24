@@ -38,3 +38,6 @@ Did you know? I’m not just about coding—I’m passionate about developing em
 ---
 
 Thanks for stopping by! Whether you have a groundbreaking idea or just want to chat about code, feel free to reach out. Let’s build something amazing together!
+
+
+<a href="https://app.daily.dev/kennethc"><img src="https://api.daily.dev/devcards/v2/6Qkso5ckvZLcQ5h4Riqi5.png?r=ij3&type=wide" width="652" alt="Kenneth C's Dev Card"/></a>
