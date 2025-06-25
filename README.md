@@ -1,43 +1,91 @@
-## Hello there! I'm Kenneth Castillo Herrera 👋
+# Hello there! I'm Kenneth Alonso Castillo Herrera 👋
 
-Welcome to my corner of GitHub! I'm a **Full Stack Developer** from the picturesque lands of Los Santos, Costa Rica. With a passion for crafting clean, efficient code, and a love for all things tech, I’m here to bring ideas to life through innovation and automation.
+Welcome to my corner of GitHub! I'm a **Mid-Junior Full Stack Developer** from the beautiful province of Cartago, Costa Rica. With 2+ years of experience specializing in .NET ecosystems and modern web technologies, I'm passionate about building scalable enterprise solutions and bringing innovative ideas to life through code.
 
-### 🚀 A Glimpse Into My World
+## 🚀 About Me
 
-- 🔭 **Currently immersed in:** Crafting solutions that revolve around data analysis, system maintenance, and the magic of microservices using **.NET 8** and **Python**.
-- 🌱 **Always learning:** Whether it’s fine-tuning my skills in **Blazor**, **React**, and **Angular**, or diving into the latest tech trends, I believe in continuous growth and adaptability.
-- 👯 **Collaborating on:** Exciting projects that bridge the gap between software and hardware, with a special focus on embedded systems and automation.
-- 🤖 **My tech stack includes:** 
-  - **Backend:** .NET Framework, .NET 8, Python
-  - **Frontend:** Blazor, React, Angular
-  - **Databases:** SQL Server
-  - **DevOps:** VPS management, AWS, Google Firebase
-  - **Bonus:** Embedded systems development
-- 💬 **Let's talk about:** Full Stack development, the beauty of clean architecture, and the art of connecting microservices with robust databases.
-- 🎯 **Hobbies:** I’m not just about software—building embedded systems keeps my mind sharp and my love for electronics alive.
+- 🔭 **Currently working on:** Enterprise-grade WhatsApp Business integrations, high-performance APIs, and AI-powered automation systems using **.NET 8** and modern web technologies
+- 🌱 **Always learning:** Mastering advanced **Blazor** patterns, **React** optimization, and exploring **AI integration** for business process automation
+- 👯 **Open to collaborate on:** Scalable web applications, API development, system modernization projects, and innovative automation solutions
+- 💼 **Professional focus:** Full Stack development with expertise in **microservices architecture**, **event-driven systems**, and **enterprise integrations**
 
-### 🎓 The Scholar in Me
+## 🛠️ Tech Stack
 
-- **Advanced Technical Degree in Full Stack Development** from Universidad Creativa
-- **Pursuing a Bachelor's Degree in Computer Engineering** at ITCR
+### Backend
+- **.NET 8**, **C#**, **Node.js**, **Express**
+- **RESTful APIs**, **Microservices Architecture**, **Event-Driven Design**
+- **SQL Server 2022**, **Oracle**, **JSON support in SQL Server**
 
-### 🌟 Fun Facts About Me
+### Frontend
+- **Blazor** (Server-side), **React**, **React Native**
+- **Tailwind CSS**, **HTML5**, **CSS3**, **JavaScript**
+- **Responsive Design**, **Component Libraries**
 
-I’m a code purist, always striving for that perfect line of code that’s both efficient and elegant. I also have a penchant for algorithm challenges—they’re my version of a mental gym.
+### DevOps & Tools
+- **Azure DevOps**, **GitHub Actions**, **Git**
+- **Postman**, **Swagger**, **Performance Testing**
+- **Multi-threading**, **Caching Strategies**
 
-### 📫 Let's Connect!
+### Specialized Skills
+- **WhatsApp Business API Integration**
+- **Web Automation** (Selenium, Anti-bot systems)
+- **AI Integration** (Customer intent recognition)
+- **System Modernization** (Legacy to modern web)
 
-- **Email:** [kenneth.castillo@example.com](mailto:kenneth.castillo@example.com)
+## 🎯 Professional Highlights
+
+- 🏗️ **Architected** WhatsApp platform handling **20,000+ daily automated interactions**
+- ⚡ **Optimized** API performance processing **1,000+ queries/minute**
+- 🔄 **Modernized** legacy desktop applications to scalable web solutions
+- 🤖 **Integrated AI** reducing customer service wait times by **40%**
+- 🛡️ **Built compliance-ready** automation systems for financial and legal sectors
+
+## 🎓 Education & Certifications
+
+- **Advanced Technical Degree in Full Stack Web Development** - Universidad Creativa (2024)
+- **Computer Engineering** (60% completed) - Tecnológico De Costa Rica
+- **ISO 27001: Information Security** - Gestionadora Internacional (2024)
+
+## 🌟 What Drives Me
+
+I'm passionate about creating **efficient, scalable solutions** that solve real business problems. Whether it's reducing manual processes through intelligent automation or building robust APIs that handle thousands of requests, I believe in code that makes a measurable impact.
+
+## 💬 Let's Talk About
+
+- **Enterprise integrations** and **WhatsApp Business solutions**
+- **System architecture** and **microservices design**
+- **Performance optimization** and **scalability challenges**
+- **AI integration** in business processes
+- **Modern web development** best practices
+
+## 📫 Get In Touch
+
+- **Email:** [kennethalonsoc@gmail.com](mailto:kennethalonsoc@gmail.com)
+- **Phone:** +506 8690-6291
+- **Location:** Cartago, San Nicolás, Costa Rica 🇨🇷
 - **LinkedIn:** [Kenneth Castillo Herrera](https://www.linkedin.com/in/kennethch/)
-- **Portfolio:** [Check out my work](https://kennethch-portfolio.com) *(Just an example)*
 
-### ⚡ A Spark of Creativity
+## 📊 GitHub Stats
 
-Did you know? I’m not just about coding—I’m passionate about developing embedded systems, keeping my skills sharp in both the virtual and physical worlds of technology.
+<div align="center">
+  
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcastillo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcastillo&layout=compact&theme=tokyonight)
+
+</div>
+
+## ⚡ Fun Facts
+
+- 🎯 **Algorithm enthusiast** - I treat coding challenges like mental gymnastics
+- 🔧 **Problem solver** - I love turning complex business requirements into elegant technical solutions
+- 🌐 **Polyglot programmer** - Fluent in multiple programming languages and frameworks
+- 📈 **Performance optimizer** - Always looking for ways to make systems faster and more efficient
 
 ---
 
-Thanks for stopping by! Whether you have a groundbreaking idea or just want to chat about code, feel free to reach out. Let’s build something amazing together!
+**"Building tomorrow's solutions with today's technology"** 
 
+Thanks for visiting my profile! Whether you have an exciting project idea, want to discuss tech trends, or just chat about code, I'm always open to connecting with fellow developers and innovators. Let's build something amazing together! 🚀
 
 <a href="https://app.daily.dev/kennethc"><img src="https://api.daily.dev/devcards/v2/6Qkso5ckvZLcQ5h4Riqi5.png?r=ij3&type=wide" width="652" alt="Kenneth C's Dev Card"/></a>
