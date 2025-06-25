@@ -63,7 +63,7 @@ I'm passionate about creating **efficient, scalable solutions** that solve real 
 - **Email:** [kennethalonsoc@gmail.com](mailto:kennethalonsoc@gmail.com)
 - **Phone:** +506 8690-6291
 - **Location:** Cartago, San Nicolás, Costa Rica 🇨🇷
-- **LinkedIn:** [Kenneth Castillo Herrera](https://www.linkedin.com/in/kennethch/)
+- **LinkedIn:** [Kenneth Castillo Herrera](https://www.linkedin.com/in/kennethcas/)
 
 ## ⚡ Fun Facts
 
