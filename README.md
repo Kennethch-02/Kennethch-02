@@ -65,16 +65,6 @@ I'm passionate about creating **efficient, scalable solutions** that solve real 
 - **Location:** Cartago, San Nicolás, Costa Rica 🇨🇷
 - **LinkedIn:** [Kenneth Castillo Herrera](https://www.linkedin.com/in/kennethch/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcastillo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcastillo&layout=compact&theme=tokyonight)
-
-</div>
-
 ## ⚡ Fun Facts
 
 - 🎯 **Algorithm enthusiast** - I treat coding challenges like mental gymnastics
