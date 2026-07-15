@@ -1,80 +1,61 @@
-# Hello there! I'm Kenneth Alonso Castillo Herrera 👋
-
-Welcome to my corner of GitHub! I'm a **Mid-Junior Full Stack Developer** from the beautiful province of Cartago, Costa Rica. With 2+ years of experience specializing in .NET ecosystems and modern web technologies, I'm passionate about building scalable enterprise solutions and bringing innovative ideas to life through code.
-
-## 🚀 About Me
-
-- 🔭 **Currently working on:** Enterprise-grade WhatsApp Business integrations, high-performance APIs, and AI-powered automation systems using **.NET 8** and modern web technologies
-- 🌱 **Always learning:** Mastering advanced **Blazor** patterns, **React** optimization, and exploring **AI integration** for business process automation
-- 👯 **Open to collaborate on:** Scalable web applications, API development, system modernization projects, and innovative automation solutions
-- 💼 **Professional focus:** Full Stack development with expertise in **microservices architecture**, **event-driven systems**, and **enterprise integrations**
-
-## 🛠️ Tech Stack
-
-### Backend
-- **.NET 8**, **C#**, **Node.js**, **Express**
-- **RESTful APIs**, **Microservices Architecture**, **Event-Driven Design**
-- **SQL Server 2022**, **Oracle**, **JSON support in SQL Server**
-
-### Frontend
-- **Blazor** (Server-side), **React**, **React Native**
-- **Tailwind CSS**, **HTML5**, **CSS3**, **JavaScript**
-- **Responsive Design**, **Component Libraries**
-
-### DevOps & Tools
-- **Azure DevOps**, **GitHub Actions**, **Git**
-- **Postman**, **Swagger**, **Performance Testing**
-- **Multi-threading**, **Caching Strategies**
-
-### Specialized Skills
-- **WhatsApp Business API Integration**
-- **Web Automation** (Selenium, Anti-bot systems)
-- **AI Integration** (Customer intent recognition)
-- **System Modernization** (Legacy to modern web)
-
-## 🎯 Professional Highlights
-
-- 🏗️ **Architected** WhatsApp platform handling **20,000+ daily automated interactions**
-- ⚡ **Optimized** API performance processing **1,000+ queries/minute**
-- 🔄 **Modernized** legacy desktop applications to scalable web solutions
-- 🤖 **Integrated AI** reducing customer service wait times by **40%**
-- 🛡️ **Built compliance-ready** automation systems for financial and legal sectors
-
-## 🎓 Education & Certifications
-
-- **Advanced Technical Degree in Full Stack Web Development** - Universidad Creativa (2024)
-- **Computer Engineering** (60% completed) - Tecnológico De Costa Rica
-- **ISO 27001: Information Security** - Gestionadora Internacional (2024)
-
-## 🌟 What Drives Me
-
-I'm passionate about creating **efficient, scalable solutions** that solve real business problems. Whether it's reducing manual processes through intelligent automation or building robust APIs that handle thousands of requests, I believe in code that makes a measurable impact.
-
-## 💬 Let's Talk About
-
-- **Enterprise integrations** and **WhatsApp Business solutions**
-- **System architecture** and **microservices design**
-- **Performance optimization** and **scalability challenges**
-- **AI integration** in business processes
-- **Modern web development** best practices
-
-## 📫 Get In Touch
-
-- **Email:** [kennethalonsoc@gmail.com](mailto:kennethalonsoc@gmail.com)
-- **Location:** Cartago, San Nicolás, Costa Rica 🇨🇷
-- **LinkedIn:** [Kenneth Castillo Herrera](https://www.linkedin.com/in/kennethcas/)
-
-## ⚡ Fun Facts
-
-- 🎯 **Algorithm enthusiast** - I treat coding challenges like mental gymnastics
-- 🔧 **Problem solver** - I love turning complex business requirements into elegant technical solutions
-- 🌐 **Polyglot programmer** - Fluent in multiple programming languages and frameworks
-- 📈 **Performance optimizer** - Always looking for ways to make systems faster and more efficient
+<h1 align="center">Kenneth Alonso Castillo Herrera</h1>
+<p align="center"><b>Backend Engineer &amp; Systems Architect</b></p>
+<p align="center">.NET&nbsp;8 · C# · SQL&nbsp;Server · APIs · Microservices · Automation · AI</p>
+<p align="center">
+  <a href="https://teonix.dev">🌐 teonix.dev</a> ·
+  <a href="https://linkedin.com/in/kennethcastillo">💼 LinkedIn</a> ·
+  <a href="mailto:kennethalonsoc@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
-**"Building tomorrow's solutions with today's technology"** 
+Ingeniero backend y arquitecto de sistemas con **más de 3 años** construyendo automatización a escala
+empresarial sobre **.NET Core 8** y **SQL Server**. Diseño plataformas de emisión de seguros, bots de
+atención con IA e infraestructura de mensajería que procesan **miles de transacciones al día**.
 
-Thanks for visiting my profile! Whether you have an exciting project idea, want to discuss tech trends, or just chat about code, I'm always open to connecting with fellow developers and innovators. Let's build something amazing together! 🚀
+🟢 **Disponible para proyectos remotos part-time / freelance** · 🇨🇷 Costa Rica (GMT-6)
 
-<a href="https://app.daily.dev/kennethc"><img src="https://api.daily.dev/devcards/v2/6Qkso5ckvZLcQ5h4Riqi5.png?r=ij3&type=wide" width="652" alt="Kenneth C's Dev Card"/></a>
+### 🔧 En qué trabajo
+- Arquitectura de backend y APIs RESTful sobre .NET 8 + SQL Server 2022
+- Automatización con IA: chatbots, detección de intención y WhatsApp Business API
+- Modernización de aplicaciones legadas hacia React 19 + Vite + Firebase
+- APIs y documentación pensadas para desarrollo asistido por IA
+
+### 📊 Algunos números
+- 🤖 Plataforma de WhatsApp Business con **+20 000 interacciones automatizadas/día**
+- ⚡ Backend optimizado para sostener **+1 000 consultas/minuto**
+- 🎯 IA de atención que redujo los tiempos de respuesta **~40 %**
+
+### 🚀 Portafolio — [teonix.dev](https://teonix.dev)
+Estudio independiente donde diseño y construyo mis propios productos, de punta a punta:
+
+| Producto | Qué es | Stack |
+|---|---|---|
+| [Bloom](https://bloom.teonix.dev) | Companion de embarazo con IA (bilingüe) | React 19 · Firebase · OpenAI |
+| [Ambient Monitor](https://ambient.teonix.dev) | Monitoreo ambiental IoT en tiempo real | ESP32 · Firebase RTDB · React |
+| [Substrata](https://substrata.teonix.dev) | IA orquestada desde SQL Server | .NET 8 · SQL Server |
+| [Renova](https://renova.teonix.dev) | Renovación de pólizas orquestada por BD | .NET 8 · SQL Server |
+| [Multichannel](https://multichannelmessages.teonix.dev) | Mensajería multi-agente (WA/IG/Messenger) | .NET 8 · SQL Server · Blazor |
+| [Brumas de los Santos](https://brumas.teonix.dev) | Marca + e-commerce de café de especialidad | React 19 · Vite · Zustand |
+
+### 🛠️ Stack
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### 🎓 Formación
+- **Técnico Superior en Desarrollo Web Full Stack** — Universidad Creativa 
+- **Ingeniería en Computación** — Tecnológico de Costa Rica
+- **ISO 27001** — Gestión de Seguridad de la Información (2024)
+
+---
+
+<p align="center"><i>Español (nativo) · Inglés (B1) — abierto a colaboraciones remotas.</i></p>
